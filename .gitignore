@@ -6,4 +6,4 @@
 /pkg/
 /spec/reports/
 /tmp/
-rails_slb_middleware-0.1.0.gem
+*.gem

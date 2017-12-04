@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rails_slb_middleware (0.1.0)
+    rails_slb_middleware (0.1.1)
       rack (~> 2.0)
 
 GEM
